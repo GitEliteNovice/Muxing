@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Muxing</string>
+    <string name="info">This App will mux only audio, video of same length and same quality..</string>
+</resources>
