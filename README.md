@@ -8,16 +8,23 @@ Example youtube video at 480p provide video slone and audio alone urls. So we ca
 allprojects 
 { 
 repositories 
+  
   { 
 ...
 maven
-    {
+ 
+ {
         url 'https://jitpack.io' 
-    }
+ 
+ }
   }
 }
 
 Step 2. Add the dependency
 
 
-dependencies { compile 'com.github.GitEliteNovice:Muxing:1.0.0' } 
+dependencies { \
+
+compile 'com.github.GitEliteNovice:Muxing:1.0.0' 
+
+} 
