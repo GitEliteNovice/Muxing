@@ -6,7 +6,7 @@ Example youtube video at 480p provide video slone and audio alone urls. So we ca
 Getting started
 ---
 
-This library is published on jCenter. Just add these lines to `build.gradle`.
+Step1. Just add these lines to `build.gradle`.
 
 ```gradle
 dependencies {
@@ -15,30 +15,20 @@ dependencies {
 }
 ```
 
-Add it in your root build.gradle at the end of repositories:
-
+Step2. Add it in your root `build.gradle` at the end of repositories:
+```gradle
 allprojects 
 { 
 repositories 
   
   { 
-...
-maven
- 
- {
-        url 'https://jitpack.io' 
- 
- }
+     ...
+    maven
+    {
+       url 'https://jitpack.io' 
+    }
   }
 }
 
+```
 
-
-Step 2. Add the dependency
-
-
-dependencies { 
-  
-  
- 
- } 
