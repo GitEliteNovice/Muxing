@@ -23,8 +23,6 @@ maven
 Step 2. Add the dependency
 
 
-dependencies { \
-
-compile 'com.github.GitEliteNovice:Muxing:1.0.0' 
-
-} 
+dependencies { 
+ compile 'com.github.GitEliteNovice:Muxing:1.0.0' 
+ } 
