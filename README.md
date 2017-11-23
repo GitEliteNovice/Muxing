@@ -24,5 +24,5 @@ Step 2. Add the dependency
 
 
 dependencies { 
- compile 'com.github.GitEliteNovice:Muxing:1.0.0' 
+  compile 'com.github.GitEliteNovice:Muxing:1.0.0'
  } 
