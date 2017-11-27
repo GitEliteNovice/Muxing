@@ -40,3 +40,9 @@ Libraries used in this project
 ------------------------------
 
 * [Mp4Parser] 
+
+
+It is important to emphasize that you cannot append any two tracks with: 
+ 
+ * Different resolutions 
+ * Different frame-rates
