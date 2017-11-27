@@ -11,9 +11,11 @@ Step1. Just add these lines to `build.gradle`.
 ```gradle
 dependencies {
    compile 'com.github.GitEliteNovice:Muxing:1.0.0'
-   {
-   transitive =true;
-   }
+  
+    {
+      transitive =true;
+    }
+   
     }
 }
 ```
