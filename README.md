@@ -1,4 +1,4 @@
-# Muxing
+# Muxing https://img.shields.io/badge/Android%20Arsenal-Muxing%20Library-green.svg?style=flat
 This is an example of muxing Audio and Video of same length and Quality
 With this library we can mux videos and audios.
 Example youtube video at 480p provide video slone and audio alone urls. So we can download both and mux them.
