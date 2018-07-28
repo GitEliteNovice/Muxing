@@ -1,4 +1,4 @@
-# Muxing  [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Muxing%20Library-green.svg?style=flat )]( https://android-arsenal.com/details/1/6558 )
+# Muxing  [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Muxing%20Library-green.svg?style=flat )]( https://android-arsenal.com/details/1/6558 ) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/GitEliteNovice)
 
 This is an example of muxing Audio and Video of same length and Quality
 With this library we can mux videos and audios.
