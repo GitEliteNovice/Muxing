@@ -1,4 +1,4 @@
-# Muxing  [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Muxing%20Library-green.svg?style=flat )]( https://android-arsenal.com/details/1/6558 ) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/GitEliteNovice) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40elite_novice)](https://twitter.com/elite_novice) <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+# Muxing  [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Muxing%20Library-green.svg?style=flat )]( https://android-arsenal.com/details/1/6558 ) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/GitEliteNovice) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40elite_novice)](https://twitter.com/elite_novice) 
 
 This is an example of muxing Audio and Video of same length and Quality
 With this library we can mux videos and audios.
