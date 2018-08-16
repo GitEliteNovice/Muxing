@@ -39,7 +39,7 @@ repositories
 ```
 
 ## Why would anyone want to use this?
-If your App is Providing a Fuctionality of downloding Videos from some where ... and your Server Provide two seprate Url one is for audio(Alone) and one is for Video(Without audio). Then this Would be life save for your app.Your do not have to write lots of bipolar code code just .. pass the path of downloaded audio and video in this libarary  and boom. Congrats! You will get a Complete Video just in Few Seconds.    
+If your App is Providing a Fuctionality of downloding Videos from some where ... and your Server Provide two seprate Url one is for audio(Alone) and one is for Video(Without audio). Then this Would be life save for your app.Your do not have to write lots of bipolar code so just .. pass the path of downloaded audio and video in this libarary  and boom. Congrats! You will get a Complete Video just in Few Seconds.    
 
 
 
